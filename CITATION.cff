@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the following metadata."
+title: "Unsupervised Anomaly Detection for Finite Temperature Gibbs States of the XXZ Model"
+authors:
+  - family-names: Plodzien
+    given-names: Marcin
+    # Add ORCID if available:
+    orcid: "https://orcid.org/0000-0002-0835-1644"
+    affiliations:
+      - "ICFO"
+version: 1.0.0
+date-released: 2025-01-07
+url: "https://github.com/MarcinPlodzien/Unsupervised_anomaly_detection_for_finite_temperature_Gibbs_states_XXZ_model"
+repository-code: "https://github.com/MarcinPlodzien/Unsupervised_anomaly_detection_for_finite_temperature_Gibbs_states_XXZ_model"
+arxiv: "https://arxiv.org/search/?searchtype=author&query=P%C5%82odzie%C5%84%2C+M" 
+google-scholar: "https://scholar.google.com/citations?user=eC9nCmgAAAAJ&hl=en"  
+license: "MIT"
+abstract: >
+  This repository provides resources and implementations for unsupervised anomaly 
+  detection in finite-temperature Gibbs states of the quantum XXZ spin model in the transverse field
+  for finite one-dimensional system within Exact Diagonalization approach.
